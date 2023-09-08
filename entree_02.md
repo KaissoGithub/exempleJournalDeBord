@@ -13,8 +13,8 @@ Toujours par le même créateur, le jeu "Password Game" invite l'utilisateur à 
 Kurzgesagt n'est pas une marque de ketchup, c'est une chaîne éducative qui a pour objectif de faire de la vulgarisation scientifique et philosophique. La direction artistique couplée à la voix iconique du narrateur a offert à la chaine un grand succès. La fluidité des animations retrouvées sur les vidéos de la chaine me servira de carburant quant à ma motivation lors de l'apprentissage de cette compétence.
 
 ### [The Evolution of Trust](https://ncase.me/trust/)
-x
+Encore un jeu intéractif qui se fait sur navigateur, dans ce jeu nous pouvons comme son nom l'indique, voir l'évolution de la confiance entre plusieurs types de personnalités différentes. Notre parcours académique nous incite surtout à évoluer dans le milieu web, j'aimerais être en mesure de réaliser un site semblable à la fin de mon parcours.
 
-### Lien 5 
-x
+### [The Internet Historian](https://www.youtube.com/@InternetHistorian)
+Cette chaine vulgarise l'histoire des memes et des divers évènements qui se sont déroulé au fil du temps, son talent à produire des vidéos de qualité avec une bonne narration des événements et un montage toujours aussi comique m'inspire. Je ne pourrais sans doute pas produire du contenu similaire mais je souhaite avoir les mêmes capacités que lien quant à la création de contenu
 
