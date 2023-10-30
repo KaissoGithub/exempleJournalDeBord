@@ -11,6 +11,7 @@ Ce n'est pas pour vous manquer de respect, je pourrais très bien vous écrire d
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+
 -Prendre les préparations plus au sérieux et ne pas sous-estimer le sujet, je devrais au moins prendre le temps de consulter les ressources mises à disposition par l'enseignant.
 -Me renseigner davantage dans mon temps libre sur les matières que l'on peut potentiellement rencontrer (sans pour autant en faire une corvée), cela peut tout simplement être
 en lisant des articles, visionnant des vidéos youtube et ainsi de suite.
@@ -18,12 +19,14 @@ en lisant des articles, visionnant des vidéos youtube et ainsi de suite.
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
+
 -J'ai effectué mon travail relativement rapidement, mais ma stratégie consistait tout simplement à remplir les questions et sauter celles que je ne savais pas instinctivement. 
 Lors d'un examen plus long ou plus dur, cela me permettrait dans le pire des cas de remplir le maximum de questions sans le perdre inutilement en étant bloqué ailleurs.
 
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+
 -Ce ne sont pas des ressources que j'ai spécifiquement utilisées pour la préparation de l'examen, mais j'ai fait un DEP en soutien informatique et j'ai donc eu la chance d'être préparé à l'avance
 quant au sujet de l'examen qui tournait justement autour des bases de l'informatique. Parfois je regarde également des vidéos sur les montages de tours ou de résolution de problèmes et ont fait souvent référence aux composants des ordinateurs. 
 
