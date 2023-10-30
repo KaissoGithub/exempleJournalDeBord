@@ -5,11 +5,21 @@ L’objectif de cet exercice est de développer une opinion sur une œuvre multi
 
 Entre 300 et 400 mots. 
 
+Le vendredi 27 octobre, nous nous sommes rendu avec notre classe à l'escape game qui se retrouve à laval. Par la suite, avec des équipes que l'on avait déjà pré-constitué, nous avons participés à différents "jeux", celui de mon groupe était celui de la cathédrale. 
+
 ### Description
 Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
+
+
+
 
 ### Opinion
 Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
 
+
+
+
 ### Analyse critique
 Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+
+
