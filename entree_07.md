@@ -8,7 +8,7 @@ Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pou
 
 On commence la conférence par une brève introduction de la bourse attitrée uniquement aux femmes qui rejoignent les programmes tels que le nôtre. 
 Nous suivons par une présentation du parcours académique et professionnel de l'une des conférencièresxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-On apprend que chez Moment Factory, le point recherché et le point fort de cette entreprise est la créativité, que dépendamment du lieu professionnel où on est engagé, les attentes sont différentes. Certains imposent la performance, d'autres la créativité. Polyvalence. Back end/Front end.
+On apprend que chez Moment Factory, le point recherché et le point fort de cette entreprise est la créativité, que dépendamment du lieu professionnel où on est engagé, les attentes sont différentes. Certains imposent la performance, d'autres la créativité. Polyvalence. Back end/Front end. Ne pas régler le problème par nous même (Conseil)
 
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
