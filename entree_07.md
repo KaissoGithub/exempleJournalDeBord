@@ -7,8 +7,8 @@ L’objectif de cet exercice est de développer une opinion sur la conférence q
 Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? Est-ce que la conférence vous a été utile?
 
 On commence la conférence par une brève introduction de la bourse attitrée uniquement aux femmes qui rejoignent les programmes tels que le nôtre. 
-Nous suivons par une présentation du parcours académique et professionnel de l'une des conférencièresxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-On apprend que chez Moment Factory, le point recherché et le point fort de cette entreprise est la créativité, que dépendamment du lieu professionnel où on est engagé, les attentes sont différentes. Certains imposent la performance, d'autres la créativité. Polyvalence. Back end/Front end. Ne pas régler le problème par nous même (Conseil)
+Nous suivons par une présentation du parcours académique et professionnel de l'une des conférencières.
+On apprend que chez Moment Factory, le point recherché et le point fort de cette entreprise est la créativité, que dépendamment du lieu professionnel où on est engagé, les attentes sont différentes. Certains imposent la performance, d'autres la créativité. Polyvalence. Back end/Front end. Nous terminons la conférence par un conseil relativement important qui nous incite à ne jamais tenter d'être individualiste et toujours faire équipe.
 
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
