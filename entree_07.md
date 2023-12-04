@@ -14,10 +14,12 @@ On apprend que chez Moment Factory, le point recherché et le point fort de cett
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
 
-La clarté des idées 
+Les idées présentées étaient bien formulées. Chaque point nous laissait deviner leur contenu et l'explication qui les suivais renforçait notre compréhension sur le sujet.
 
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
+
+Le développement des idées présentées était tout à fait logique, lourd par moments dans le sens que les explications étaient condensées, mais en ce qui concerne l'explication et la compréhension, ces derniers étaient tout à fait correct.
 
 ### Qualité visuelle (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
