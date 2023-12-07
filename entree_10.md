@@ -54,7 +54,7 @@ Non.
 
 ### Pour quel type d'entreprise préférerais-tu travailler? 
 
-Je n'ai pas de préférence, dans le cas d'une grande entreprise, mes tâches seront probablement orienté vers quelque chose de spécifique, dans le cas d'une petite entreprise, je devrais être polyvalent, la charge de travail et l'environnement que proposent les deux me semblent intéressantes.
+Je n'ai pas de préférence, dans le cas d'une grande entreprise, mes tâches seront probablement orientées vers quelque chose de spécifique, dans le cas d'une petite entreprise, je devrais être polyvalent, la charge de travail et l'environnement que proposent les deux me semblent intéressants.
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
